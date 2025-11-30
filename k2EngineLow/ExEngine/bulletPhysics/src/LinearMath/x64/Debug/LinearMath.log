@@ -1,0 +1,17 @@
+﻿cl : コマンド ライン  warning D9002: 不明なオプション '/arch:SSE' を無視します。
+  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btSerializer.cpp
+  btVector3.cpp
+C:\Users\01254003\Desktop\Universe Land\k2EngineLow\ExEngine\bulletPhysics\src\LinearMath\btVector3.cpp(179,42): warning C4267: '=': 'size_t' から 'long' に変換しました。データが失われているかもしれません。
+C:\Users\01254003\Desktop\Universe Land\k2EngineLow\ExEngine\bulletPhysics\src\LinearMath\btVector3.cpp(184,14): warning C4267: '-=': 'size_t' から 'unsigned long' に変換しました。データが失われているかもしれません。
+C:\Users\01254003\Desktop\Universe Land\k2EngineLow\ExEngine\bulletPhysics\src\LinearMath\btVector3.cpp(427,38): warning C4267: '=': 'size_t' から 'long' に変換しました。データが失われているかもしれません。
+C:\Users\01254003\Desktop\Universe Land\k2EngineLow\ExEngine\bulletPhysics\src\LinearMath\btVector3.cpp(564,42): warning C4267: '=': 'size_t' から 'long' に変換しました。データが失われているかもしれません。
+C:\Users\01254003\Desktop\Universe Land\k2EngineLow\ExEngine\bulletPhysics\src\LinearMath\btVector3.cpp(569,14): warning C4267: '-=': 'size_t' から 'unsigned long' に変換しました。データが失われているかもしれません。
+C:\Users\01254003\Desktop\Universe Land\k2EngineLow\ExEngine\bulletPhysics\src\LinearMath\btVector3.cpp(815,38): warning C4267: '=': 'size_t' から 'long' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+  LinearMath.vcxproj -> C:\Users\01254003\Desktop\Universe Land\exlib\x64\Debug\LinearMath_Debug.lib
